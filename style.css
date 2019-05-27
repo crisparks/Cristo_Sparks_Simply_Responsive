@@ -32,3 +32,8 @@
         width: 650px;
     }
 }
+@media only screen and (min-width: 1024px){
+    .lrg-1{
+        width: 800px;
+    }
+}
