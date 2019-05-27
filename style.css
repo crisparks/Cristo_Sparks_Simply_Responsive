@@ -1,0 +1,34 @@
+
+#wrapper{
+    width: 100%;
+    background-color: cadetblue;
+    font-size: 160%;
+}
+.section1{
+    height: 300px;
+    width: 800px;
+    background-color: coral;
+    margin: 5% auto;
+}
+.section2{
+    height: 300px;
+    width: 800px;
+    background-color: seagreen;
+    margin: 5% auto;
+}
+.section3{
+    height: 300px;
+    width: 800px;
+    background-color: silver;
+    margin: 5% auto;
+}
+@media only screen and (max-width: 480px){
+    .sm-0 {
+        width: 300px;
+     }
+}
+@media only screen and (max-width: 1043px){
+    .md-1{
+        width: 650px;
+    }
+}
